@@ -1,0 +1,19 @@
+C:\Users\husnu\source\repos\Not If VB\Not If VB\bin\Debug\net5.0-windows\Not If VB.exe
+C:\Users\husnu\source\repos\Not If VB\Not If VB\bin\Debug\net5.0-windows\Not If VB.deps.json
+C:\Users\husnu\source\repos\Not If VB\Not If VB\bin\Debug\net5.0-windows\Not If VB.runtimeconfig.json
+C:\Users\husnu\source\repos\Not If VB\Not If VB\bin\Debug\net5.0-windows\Not If VB.runtimeconfig.dev.json
+C:\Users\husnu\source\repos\Not If VB\Not If VB\bin\Debug\net5.0-windows\Not If VB.dll
+C:\Users\husnu\source\repos\Not If VB\Not If VB\bin\Debug\net5.0-windows\ref\Not If VB.dll
+C:\Users\husnu\source\repos\Not If VB\Not If VB\bin\Debug\net5.0-windows\Not If VB.pdb
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.vbprojAssemblyReference.cache
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not_If_VB.Form1.resources
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.vbproj.GenerateResource.cache
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.AssemblyInfoInputs.cache
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.AssemblyInfo.vb
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.vbproj.CoreCompileInputs.cache
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.dll
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\ref\Not If VB.dll
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.pdb
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not If VB.genruntimeconfig.cache
+C:\Users\husnu\source\repos\Not If VB\Not If VB\obj\Debug\net5.0-windows\Not_If_VB.Resources.resources
